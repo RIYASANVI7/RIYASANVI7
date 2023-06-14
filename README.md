@@ -1,3 +1,4 @@
+[![RIYASANVI7's GitHub | Stats](https://stats.quine.sh/RIYASANVI7/github?theme=dark)](https://quine.sh)
 ### Hi there 👋
 
 <!--
