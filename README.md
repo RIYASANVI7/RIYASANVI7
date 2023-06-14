@@ -1,3 +1,4 @@
+[![RIYASANVI7's GitHub | Languages Over Time](https://stats.quine.sh/RIYASANVI7/languages-over-time?theme=dark)](https://quine.sh)
 [![RIYASANVI7's GitHub | Stats](https://stats.quine.sh/RIYASANVI7/github?theme=dark)](https://quine.sh)
 ### Hi there 👋
 
